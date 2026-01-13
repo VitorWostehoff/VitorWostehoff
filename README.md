@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ghostedvpn-hacker-cat.gif" width="100">
+</p>
+
 # Olá mundo, eu sou o Vitor Wöstehoff 😁
 
 ###### Atualmente estou com 19 anos e estou cursando ciências da computação 3° semestre na Fundação Universidade Regional de Blumenau (FURB), meu objetivo neste perfil é mostrar minha evolução na minha gradução, projetos pessoais e a área da tecnologia em geral.
