@@ -4,7 +4,7 @@
 
 # Olá mundo, eu sou o Vitor Wöstehoff 😁
 
-Atualmente estou com 19 anos, sou formado na instituição Cedup Hermann Hering como técnico em desenvolvimento de sistemas, no momento estou cursando ciências da computação 3° semestre na Fundação Universidade Regional de Blumenau (FURB). Meu objetivo neste perfil é mostrar minha evolução na minha graduação, projetos pessoais e a área da tecnologia em geral.
+Atualmente estou com 20 anos, sou formado na instituição Cedup Hermann Hering como técnico em desenvolvimento de sistemas, no momento estou cursando ciências da computação 4° semestre na Fundação Universidade Regional de Blumenau (FURB). Meu objetivo neste perfil é mostrar minha evolução na minha graduação, projetos pessoais e a área da tecnologia em geral.
 
 ### Um pouco dos meus conhecimentos
 <div style="display: inline_block"><br>
